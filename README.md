@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LuckyAlmaAficionado](https://github.com/LuckyAlmaAficionado)
 
-- 💬 Ask me about **Java, Flutter, C++, C**, Laravel, PHP**
+- 💬 Ask me about **Java, Flutter, C++, C**, Laravel, PHP
 
 - 📫 How to reach me **luckyrigel9802@gmail.com**
 
